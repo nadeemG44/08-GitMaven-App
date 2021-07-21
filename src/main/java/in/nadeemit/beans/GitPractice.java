@@ -8,4 +8,9 @@ public class GitPractice
 		return true;
 	}
 
+	public int pullCode()
+	{
+		System.out.println("Code successfully pulled from repository");
+		return 1;
+	}
 }
