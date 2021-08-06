@@ -11,7 +11,8 @@ public class GitPractice
 	public int pullCode()
 	{
 		System.out.println("Code successfully pulled from repository");
-		return 1;
+		
 		System.out.println("method is added for checking jenkins....");
+		return 1;
 	}
 }
